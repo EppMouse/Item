@@ -1,5 +1,8 @@
 Item
 ==============================
+
+![Screen](Screenshot.png)
+
 Item is a newsreader for BeOS. It is more or less modelled after MT-Newswatcher on the Mac--in
 fact you can even open your MT-Newswatcher newsgroup files with it. It has two advantages
 over MT-Newswatcher: it is a bit more multithreaded and "live", and it caches headers.
